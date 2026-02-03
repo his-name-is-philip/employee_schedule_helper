@@ -17,7 +17,7 @@
 ## Установка
 1. Скачайте файл `Breaks_helper.xlsm` или клонируйте файл с макросом:  
    ```cmd
-   curl -L -o README.md https://raw.githubusercontent.com/his-name-is-philip/employee_schedule_helper/main/Breaks_helper.xlsm
+   curl -L -o Breaks_helper.xlsm https://raw.githubusercontent.com/his-name-is-philip/employee_schedule_helper/main/Breaks_helper.xlsm
 2. ПКМ по файлу → Свойства → внизу (если есть) поставить галочку Разблокировать → ОК.
 3. Откройте файл в Excel. При появлении предупреждения нажмите **Включить содержимое** (Enable Content).
 4. Перейдите на лист Настройки и внесите свои ФИО и другие обязательные параметры.
