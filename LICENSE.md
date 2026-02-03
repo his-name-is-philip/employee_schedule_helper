@@ -1,8 +1,3 @@
-
----
-
-# LICENSE.md
-```markdown
 # Лицензия на исходный код (Non-Commercial Source License)
 
 **Copyright (c) 2026, Соколов Филипп Сергеевич**  
